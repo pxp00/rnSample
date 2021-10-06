@@ -1,0 +1,134 @@
+{
+  "stuff": {
+    "default": {
+      "key": "default",
+      "primary": "#00a2ff",
+      "dark": "#00a2ff",
+      "accent": "#00a2ff",
+      "name": "Sky Blue",
+      "id": 0
+    },
+    "grey": {
+      "key": "grey",
+      "primary": "#414354",
+      "dark": "#212333",
+      "accent": "#4861A3",
+      "name": "Grey",
+      "id": 1
+    },
+    "denimRed": {
+      "key": "denimRed",
+      "primary": "#DA4C3A",
+      "dark": "#7B0308",
+      "accent": "#FB9D21",
+      "name": "Denim Red",
+      "id": 3
+    },
+    "navyBlue": {
+      "key": "navyBlue",
+      "primary": "#003B80",
+      "dark": "#001B60",
+      "accent": "#3387E9",
+      "name": "Navy Blue",
+      "id": 4
+    },
+    "HKT": {
+      "key": "HKT",
+      "primary": "#21579B",
+      "dark": "#21579B",
+      "accent": "#21579B",
+      "name": "HKT",
+      "id": 8
+    },
+    "cadv": {
+      "key": "cadv",
+      "primary": "#414354",
+      "dark": "#212333",
+      "accent": "#414354",
+      "name": "cadv",
+      "id": 9
+    },
+    "BOC": {
+      "key": "BOC",
+      "primary": "#00a2ff",
+      "dark": "#0082df",
+      "accent": "#00a2ff",
+      "name": "BOC",
+      "id": 10
+    }
+  },
+  "customer": {
+    "oceanBlue": {
+      "key": "oceanBlue",
+      "primary": "#4373EC",
+      "dark": "#225CeD",
+      "accent": "#4373EC",
+      "name": "Ocean Blue",
+      "id": 5
+    },
+    "default": {
+      "key": "default",
+      "primary": "#00BA40",
+      "dark": "#019A21",
+      "accent": "#00BA40",
+      "name": "Green",
+      "id": 6
+    },
+    "grey": {
+      "key": "grey",
+      "primary": "#414354",
+      "dark": "#212333",
+      "accent": "#4861A3",
+      "name": "Grey",
+      "id": 1
+    },
+    "denimRed": {
+      "key": "denimRed",
+      "primary": "#DA4C3A",
+      "dark": "#7B0308",
+      "accent": "#FB9D21",
+      "name": "Denim Red",
+      "id": 3
+    },
+    "navyBlue": {
+      "key": "navyBlue",
+      "primary": "#003B80",
+      "dark": "#001B60",
+      "accent": "#3387E9",
+      "name": "Navy Blue",
+      "id": 4
+    },
+    "purple": {
+      "key": "purple",
+      "primary": "#9256C7",
+      "dark": "#882DB7",
+      "accent": "#9256C7",
+      "name": "Purple",
+      "id": 7
+    },
+    "HKT": {
+      "key": "HKT",
+      "primary": "#21579B",
+      "dark": "#21579B",
+      "accent": "#21579B",
+      "name": "HKT",
+      "id": 8
+    },
+    "cadv": {
+      "key": "cadv",
+      "primary": "#414354",
+      "dark": "#212333",
+      "accent": "#414354",
+      "name": "cadv",
+      "id": 9
+    },
+    "BOC": {
+      "key": "BOC",
+      "primary": "#00a2ff",
+      "dark": "#0082df",
+      "accent": "#00a2ff",
+      "name": "BOC",
+      "id": 10
+    }
+  }
+}
